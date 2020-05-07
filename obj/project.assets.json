@@ -20,7 +20,7 @@
       "outputPath": "/Users/macworks/Downloads/todo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/macworks/.nuget/NuGet/NuGet.Config"
+        "/Users/macworks/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
